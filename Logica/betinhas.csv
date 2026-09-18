@@ -1,0 +1,8 @@
+     arquivo.write("Betinha,Moggar,5000000,1000000\n")
+     arquivo.write("Jhesyel,Tecnologia,4500.00,3\n")
+     arquivo.write("Kauan,Engenheiro,6000.00,10\n")
+     arquivo.write("Felipe,Empresario,50000.00,11\n")
+     arquivo.write("Isabella,Analista,5000.00,23\n")
+     arquivo.write("Pietro,QA,7000.00,14\n")
+     arquivo.write("Leonardo,Pedreiro,17000.00,10\n")
+     arquivo.write("Alpha,Sigma,88888.00,10\n")

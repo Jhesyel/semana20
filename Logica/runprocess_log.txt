@@ -1,0 +1,10 @@
+09/11/26 17:55:07 [AppID 228980] Exit Code (4097) :  "C:\Users\JhesyelEnykonMacedoS\Downloads\SSTagger\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2008\vcredist_x86.exe" /q /norestart GLE 0
+09/11/26 17:55:08 [AppID 228980] Exit Code (4097) :  "C:\Users\JhesyelEnykonMacedoS\Downloads\SSTagger\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2008\vcredist_x64.exe" /q /norestart GLE 0
+09/11/26 17:55:13 [AppID 228980] Exit Code (1603) :  "C:\Users\JhesyelEnykonMacedoS\Downloads\SSTagger\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2010\vcredist_x86.exe" /quiet /norestart GLE 0
+09/11/26 17:55:21 [AppID 228980] Exit Code (1603) :  "C:\Users\JhesyelEnykonMacedoS\Downloads\SSTagger\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2010\vcredist_x64.exe" /quiet /norestart GLE 0
+09/11/26 17:55:21 [AppID 228980] Exit Code (-15) :  "C:\Users\JhesyelEnykonMacedoS\Downloads\SSTagger\steamapps\common\Steamworks Shared\_CommonRedist\DirectX\Jun2010\DXSETUP.exe" /silent GLE 0
+09/11/26 17:56:04 [AppID 228980] Exit Code (4097) :  "C:\Users\JhesyelEnykonMacedoS\Downloads\SSTagger\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2008\vcredist_x86.exe" /q /norestart GLE 0
+09/11/26 17:56:05 [AppID 228980] Exit Code (4097) :  "C:\Users\JhesyelEnykonMacedoS\Downloads\SSTagger\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2008\vcredist_x64.exe" /q /norestart GLE 0
+09/11/26 17:56:10 [AppID 228980] Exit Code (1603) :  "C:\Users\JhesyelEnykonMacedoS\Downloads\SSTagger\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2010\vcredist_x86.exe" /quiet /norestart GLE 0
+09/11/26 17:56:17 [AppID 228980] Exit Code (1603) :  "C:\Users\JhesyelEnykonMacedoS\Downloads\SSTagger\steamapps\common\Steamworks Shared\_CommonRedist\vcredist\2010\vcredist_x64.exe" /quiet /norestart GLE 0
+09/11/26 17:56:17 [AppID 228980] Exit Code (-15) :  "C:\Users\JhesyelEnykonMacedoS\Downloads\SSTagger\steamapps\common\Steamworks Shared\_CommonRedist\DirectX\Jun2010\DXSETUP.exe" /silent GLE 0
